@@ -1,0 +1,118 @@
+{
+    "selamlamalar": {
+        "soru": ["selam", "merhaba", "hey", "naber", "günaydın", "iyi akşamlar", "iyi günler", "alo", "slm", "heyy", "selamlar", "merhabalar", "nabersin", "iyi misin", "hello", "hi"],
+        "cevap": ["Merhaba! size nasıl yardımcı olabilirim?"]
+    },
+    "nasilsin": {
+        "soru": ["nasılsın", "nasıl gidiyor", "iyi misin", "ne var ne yok", "ne haber", "nasıl hissediyorsun", "iyi misin bugün", "günün nasıl", "keyfin yerinde mi?"],
+        "cevap": ["İyiyim, teşekkürler! siz nasılsınız?"]
+    },
+    "vedalar": {
+        "soru": ["görüşürüz", "hoşçakal", "bay bay", "kendine iyi bak", "bye", "güle güle", "iyi akşamlar", "iyi geceler", "yarın görüşürüz", "sonra konuşuruz", "hoşça kalın", "kendinize dikkat edin"],
+        "cevap": ["Görüşürüz! İyi günler!"]
+    },
+    "tesekkur": {
+        "soru": ["teşekkür ederim", "teşekkürler", "saol", "eyvallah", "Allah razı olsun", "sağ ol", "minnettarım", "çok teşekkürler", "şükürler olsun", "var ol", "sağ olun", "çok sağ olun"],
+        "cevap": ["Rica ederim! Başka bir şey için yardıma ihtiyacın olursa her zaman buradayım."]
+    },
+    "soru1": {
+        "soru": ["Yanlış ödeme yaptım, nasıl iade alabilirim?", "nasıl iade talebinde bulunurum?", "iade başvurusu nerede yapılıyor", "iade talebi", "yanlış ödeme yaptım, ne yapmalıyım?", "yanlışlıkla ödeme yaptım", "yanlış ödeme nasıl geri alınır?", "ödememi nasıl iptal ederim?", "yanlışlıkla fazla ödeme yaptım, nasıl düzeltebilirim?"],
+        "cevap": ["Yanlış ödeme durumunda ödeme dekontu ve öğrenci bilgilerinizle birlikte bir dilekçe hazırlayıp Öğrenci İşleri Daire Başkanlığı’na şahsen teslim edebilir veya resmi e-posta adresine gönderebilir, iade sürecinin detayları için resmi web sitesinden destek alabilirsiniz. Dilekçenizde ödeme dekontunu ve öğrenci bilgilerinizi eklemelisiniz."]
+    },
+    "soru2": {
+        "soru": ["Ödemeleri nasıl yapabilirim?", "Ödeme yapma", "Ödeme nasıl yapılır?", "ödememi nasıl gerçekleştirebilirim?", "nereden ödeme yapabilirim?", "ödeme seçenekleri nelerdir?", "ödeme yapmam için gerekenler neler?", "nasıl ödeme yaparım?", "online ödeme nasıl yapılır?"],
+        "cevap": ["https://orion.iku.edu.tr adresinden ödeme planı oluşturduktan sonra sanal ortamda kredi kartınızla ödeyebilirsiniz. Ödemelerinizde birden fazla kredi kartı kullanabilirsiniz. (Kredi kartınız sanal işleme açık olmalıdır. Kredi kartınızla sanal işlem yapabilmeniz için mutlaka bankanıza onay vermeniz gerekmektedir."]
+    },
+    "soru3": {
+        "soru": ["Hangi ödeme yöntemleri kullanılabilir?", "Ödeme yöntemleri", "hangi yöntemlerle ödeme yapabilirim?", "ödemeler için kullanılan yöntemler nelerdir?", "ödemeleri nasıl yaparım?", "ödeme yapma yolları", "ödeme opsiyonları nelerdir?", "kredi kartı ile ödeme mümkün mü?"],
+        "cevap": ["1. Peşin Ödeme: Peşin ödemelerde %10 indirim yapılmaktadır. Ödeme planını orion üzerinden oluşturabilirsiniz ve Yapı Kredi Bankası taksitli sisteminden masrafsız ödeme yapabilirsiniz. 2. Banka Kanalıyla (Nakit) Taksitli Ödeme: Erken kayıt dönemi 12 taksit, diğer dönemlerde 9 taksit seçeneği mevcuttur. Ödeme planı oluşturup masrafsız ödeme yapabilirsiniz. 3. Kredi Kartı İle Ödeme: Peşin Ödeme (Tek Çekim): Sanal ortamda kredi kartınızla ödeme yapabilirsiniz. Taksitli Ödeme (12 veya 9 Taksit): Kredi kartınızla taksitli ödeme yapılabilir. Birden fazla kart kullanabilirsiniz."]
+    },
+    "soru4": {
+        "soru": ["Ödemeler için belirli bir onay süreci var mı?", "Ödeme onay süreci var mı?", "Ödemeler için onay süreci", "ödemeler hemen onaylanır mı?", "ödeme yaptıktan sonra işlem tamamlanır mı?", "ödeme işlemi ne kadar sürer?", "ödemem onaylanır mı?", "ödeme doğrulama süreci var mı?"],
+        "cevap": ["Ödemeler genellikle anında işlenir ve onay süreci bulunmamaktadır. Ödeme işleminizin başarıyla gerçekleştiğinden emin olmak için orion üzerinden durumunuzu kontrol edebilirsiniz. Eğer bir sorunla karşılaşırsanız, Öğrenci İşleri Daire Başkanlığı ile iletişime geçmeniz önerilir."]
+    },
+    "soru5": {
+        "soru": ["Fatura iptal işlemleri nasıl yapılır?", "faturamı nasıl iptal edebilirim?", "yanlış fatura nasıl iptal edilir?", "fatura iptal süreci nedir?", "fatura iptali için gerekenler nelerdir?", "fatura iptali işlemleri nelerdir?", "yanlış kesilen faturayı nasıl düzeltebilirim?"],
+        "cevap": ["Her türlü iade taleplerinizi https://iade.iku.edu.tr/ adresinden konu yapmanız halinde iade işlemleriniz 15 iş günü içerisinde sonuçlandırılacaktır."]
+    },
+    "soru6": {
+        "soru": ["Öğrenim ücreti ne kadar?", "Üniversite ücreti ne kadar?"],
+        "cevap": ["İlgili bölümlere ait katkı payı ve ödeme bilgilerini öğrenmek için https://aday.iku.edu.tr/tr/katki-payi-ve-odeme adresine gidebilirsiniz."]
+    },
+    "soru7": {
+        "soru": ["Kredi kartı ile ödeme yapabilir miyim?"],
+        "cevap": ["Evet, kredi kartı ile ödeme yapabilirsiniz. Ödeme planını oluşturduktan sonra, kredi kartınızla peşin veya taksitli ödeme seçeneklerinden birini tercih edebilirsiniz. Kredi kartınızın sanal işleme açık olması gerektiğini unutmayın. Ayrıca, ödeme işlemi sırasında birden fazla kredi kartı kullanabilirsiniz."]
+    },
+    "soru8": {
+        "soru": ["Ödemeyi taksitle yapabilir miyim?"],
+        "cevap": ["Evet, ödemeyi taksitle yapabilirsiniz. Erken kayıt döneminde 12 taksit, diğer dönemlerde ise 9 taksit seçeneği sunulmaktadır."]
+    },
+    "soru9": {
+        "soru": ["Ödemelerde indirim uygulanıyor mu?","Ödemeler için indirim var mı?","Peşin ödemelerde indirim var mı?"],
+        "cevap": ["Evet! Peşin ödemelerde %10 indirim uygulanmaktadır."]
+    },
+    "soru10": {
+        "soru": ["Ödeme yaptıktan sonra kaydım hemen onaylanır mı?", "Ödeme yaptım kaydım ne zaman onaylanır?"],
+        "cevap": ["Ödeme işleminiz tamamlandıktan sonra kaydınız, ödeme bilgilerinizin sistemde doğrulanmasının ardından kısa süre içinde onaylanır. Herhangi bir gecikme durumunda öğrenci işleriyle iletişime geçebilirsiniz."]
+    },
+    "soru11": {
+        "soru": ["Ödememi geç yaptım, bir sorun olur mu?","Ödemeyi geç yaptım ne olur?","Ödemeyi geç yapsam ne olur?", "Ödemeyi geç yapmak"],
+        "cevap": ["Ödemelerinizi geç yapmanız durumunda, gecikme faizi veya kaydınızın askıya alınması gibi durumlarla karşılaşabilirsiniz. Detaylı bilgi için öğrenci işleriyle iletişime geçmeniz önerilir."]
+    },
+    "soru12": {
+        "soru": ["Burs ödemeleri ne zaman yapılır?", "Burs ödemeleri hangi tarihlerde yapılır?", "Burs ödemeleri için tarih ne zaman?", "Burs ödeme tarihleri nedir?", "Burslar ne zaman yatacak?"],
+        "cevap": ["Burs ödemeleri, burs türüne göre farklılık gösterir. Örneğin, Akademik Başarı Bursu, öğrencinin bölümündeki başarı sıralamasına göre nakdi olarak verilebilir. Burslar genellikle akademik yıl boyunca belirli aylarda ödenir."]
+    },
+    "soru13": {
+        "soru": ["Bölümüm için yıllık bütçe talebi nasıl yapılır?", "Bölüm için bütçe talebi nasıl yapılır?", "Yıllık bütçe talebi başvurusu nasıl yapılır?", "Bölüm için bütçe talebi süreci nedir?", "Yıllık bütçe talebi için gerekli adımlar nelerdir?"],
+        "cevap": ["Bölümünüz için yıllık bütçe talebi yapmak için, öncelikle ilgili birim ve yöneticilerle görüşerek ihtiyaçlarınızı belirlemeniz gerekir. Ardından, mali ve idari işlemler için belirlenen prosedürlere göre bütçe talebinizi hazırlayarak, Mali ve İdari İşler Daire Başkanlığı'na iletmeniz gerekmektedir."]
+    },
+    "soru14": {
+        "soru": ["Harç/Katkı payı ödemeleri nasıl yapılır ve son ödeme tarihleri nedir?", "Harç ödemesi nasıl yapılır?", "Katkı payı ödemeleri nasıl yapılır?", "Harç ödemesi için son ödeme tarihi nedir?", "Ödemeler için son tarih nedir?"],
+        "cevap": ["Ödemeler her dönem başında e-devlet veya banka üzerinden yapılır. Ödeme tarihleri akademik takvimde belirtilir."]
+    },
+    "soru15": {
+        "soru": ["Sağlık izni nasıl alınır?", "Sağlık izni başvurusu nasıl yapılır?", "Sağlık raporu alarak izin nasıl alınır?", "Sağlık izni için hangi belgeler gereklidir?", "Sağlık izni almak için ne yapmalıyım?"],
+        "cevap": ["Sağlık izni almak için öncelikle raporunuzla birlikte öğrenci işlerine başvurmalısınız. Başvurunuz en geç 5 iş günü içinde sonuçlandırılacaktır. Geçmiş tarihli raporlar için işlem yapılamaz."]
+    },
+    "soru16": {
+        "soru": ["Kayıt dondurma süreci nasıl işler?", "Kayıt dondurmak için hangi belgeler gereklidir?", "Kayıt dondurma işlemi nasıl yapılır?", "Kayıt dondurma başvurusu nasıl yapılır?", "Kayıt dondurma için hangi adımlar izlenir?"],
+        "cevap": ["Kayıt dondurmak için dilekçe ve mazeret belgenizi öğrenci işlerine sunmalısınız. En fazla 2 dönem kayıt dondurabilirsiniz ve bu sürede harç ödemesi yapmanız gerekmez."]
+    },
+    "soru17": {
+        "soru": ["Disiplin cezasına itiraz edebilir miyim?", "Disiplin cezasına karşı itiraz nasıl yapılır?", "Disiplin cezasına itiraz başvurusu nasıl yapılır?", "Disiplin cezası kararına itiraz süreci nedir?", "Disiplin cezasına itiraz etmek için hangi adımlar izlenir?"],
+        "cevap": ["Disiplin cezasına karşı 7 gün içinde yazılı itiraz hakkınız bulunmaktadır. Ayrıca, savunma hakkınız da zorunlu olarak verilmektedir. İtirazınız, ilgili komisyon tarafından değerlendirilerek karar verilecektir."]
+    },
+    "soru18": {
+            "soru": ["Staj sigortası nasıl yapılır?", "Staj sigortası işlemleri nasıl yapılır?", "Staj için sigorta başvurusu nasıl yapılır?", "Staj sigortası yaptırmak için ne yapmalıyım?"],
+            "cevap": ["Staj başvurusu, staj başlangıcından en az 15 gün önce yapılmalıdır. SGK girişi ise fakülte tarafından gerçekleştirilmektedir. Ayrıca, staj defteri teslimi zorunludur."]
+        },
+    "soru19": {
+            "soru": ["Mezuniyet işlemleri nelerdir?", "Mezuniyet için yapılması gereken işlemler nelerdir?", "Mezuniyet başvurusu nasıl yapılır?", "Mezuniyet işlemleri için gerekli belgeler nelerdir?", "Mezuniyet için hangi adımlar takip edilmelidir?"],
+            "cevap": ["İstanbul Kültür Üniversitesi'nde mezuniyet işlemleri kapsamında, önce ilişik kesme formu doldurulur, ardından kütüphane borcu kontrol edilir ve transkript incelenir. Mezuniyet işlemleri tamamlandıktan sonra, diplomanız yaklaşık 1 ay içinde hazırlanır."]
+        },
+    "soru20": {
+            "soru": ["Kulüp kurmak için ne gerekli?", "Kulüp kurma başvurusu nasıl yapılır?", "Yeni bir kulüp kurmak için hangi belgeler gereklidir?", "Kulüp kurma süreci nedir?", "Kulüp kurma için başvuru şartları nelerdir?"],
+            "cevap": ["Kulüp kurmak için başvuru dilekçesi, kuruluş belgesi, kulüp tüzüğü ve danışman öğretim görevlisi belirleyerek öğrenci işleri veya kulüp koordinatörlüğüne başvurmanız gerekmektedir."]
+        },
+    "soru21": {
+        "soru": ["Yaz okulu için ödeme nasıl yapılır?", "Yaz okulu ücreti ne kadar?", "yaz okulu fiyatları","yaz okulu"],
+        "cevap": ["Yaz okulu ücreti, öğrenci portalı üzerinden öğrenilebilir ve online olarak ödenebilir."]
+    },
+    "soru22": {
+        "soru": ["Diploma ücreti var mı?", "Diploma almak için ücret ödemem gerekiyor mu?"],
+        "cevap": ["Diploma almak için belirli bir ücret ödenmesi gerekebilir. Diplomayı teslim almak için öğrenci işleri birimi ile iletişime geçebilirsiniz."]
+    },
+    "soru23": {
+        "soru": ["Öğrenci katkı payı nedir ve nasıl ödenir?", "Katkı payı ödemesi nasıl yapılır?","katkı payı"],
+        "cevap": ["Öğrenci katkı payı, üniversitenin belirlediği tutara göre ödenir ve öğrenci portalı üzerinden ödeme işlemi yapılabilir."]
+    },
+    "soru24": {
+        "soru": ["Öğrenim ücretimi nasıl silebilirim?", "Öğrenim ücreti ödememi iptal edebilir miyim?"],
+        "cevap": ["Öğrenim ücreti ödemesini iptal edebilmek için üniversitenin mali işler birimine başvurmanız gerekmektedir. İptal işlemine dair belirli kurallar vardır."]
+    },
+    "soru25": {
+        "soru": ["Ekstra katkı ücreti nedir?", "Öğrencilerden ekstra ücret talep ediliyor mu?"],
+        "cevap": ["Ekstra katkı ücreti, bazı dersler ve hizmetler için talep edilen ücretlerdir. Üniversitenin öğrenci işleri ve mali işler biriminden bilgi alabilirsiniz."]
+    }
+}
